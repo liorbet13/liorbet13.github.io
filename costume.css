@@ -1,0 +1,56 @@
+/* === Body Text === */
+body {
+  color: #e6e6ff; /* very light bluish text for readability */
+  background-color: #1a1a2e; /* optional dark background if you want a subtle theme */
+}
+
+/* === Headings === */
+h1, h2, h3, h4, h5, h6 {
+  color: #a084ff; /* modern bluish-purple headings */
+}
+
+/* === Links in content === */
+a {
+  color: #6ab7ff; /* bright blue links */
+  text-decoration: none;
+}
+
+a:hover {
+  color: #c08fff; /* bright purple on hover */
+}
+
+/* === Header & Navigation Links === */
+header nav a {
+  color: #b8a0ff; /* light bluish-purple nav links */
+  font-weight: bold;
+  transition: color 0.3s;
+}
+
+header nav a:hover {
+  color: #ffb3ff; /* subtle pink-purple highlight */
+}
+
+/* === Footer Text === */
+footer {
+  color: #b8a0ff;
+}
+
+/* === Optional: Horizontal Rules / Dividers === */
+hr {
+  border-color: #6ab7ff;
+}
+
+/* === Optional: Buttons or callouts (if any) === */
+button, .btn {
+  background-color: #7c5aff; /* deep bluish-purple */
+  color: #ffffff;
+  border: none;
+  padding: 0.5rem 1rem;
+  border-radius: 0.4rem;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+
+button:hover, .btn:hover {
+  background-color: #9b75ff; /* lighter hover shade */
+}
