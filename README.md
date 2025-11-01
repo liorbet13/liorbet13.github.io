@@ -1,81 +1,37 @@
-# 🧠 My Clinical Rotations Portfolio
+#  Lior Batat
+[About](#about)|[Rotations](#rotations)|[Contact](#contact)
 
 Welcome to my personal site!  
-Here you’ll find information about me, the rotations I’ve completed, and how to contact me.
+Here you’ll find information about me and my research journey as an MSc student at WSOS.
 
 ---
 
-## 👤 About Me
+## About
 
-Hi, I’m **[Your Name]**, a medical student currently completing my clinical rotations.  
-I’m passionate about patient care, evidence-based medicine, and continuous learning.  
-I use this website to document my progress, reflect on experiences, and share insights from each rotation.
-
----
-
-## 🏥 Rotations
-
-### 🩺 Rotation 1 — [Department Name]
-**Location:** [Hospital or Clinic Name]  
-**Supervisor:** [Name, Title]  
-**Dates:** [Start – End]  
-
-**Overview:**  
-Briefly describe what this rotation focused on — e.g., internal medicine, pediatrics, or emergency care.  
-
-**Key Skills Learned:**  
-- Skill 1  
-- Skill 2  
-- Skill 3  
-
-**Reflection:**  
-Write a few sentences about what you found most meaningful or challenging.
+Hi, I’m Lior Batat, a MSc Student in the Mulecular Neuroscience track at the Weizmann School of Science.  
+I did my BSc in Biomedical Sciences at the Hebrew University of Jerusalem, during which I did a Project in [Prof. Yonatan Kupchik's](https://www.kupchiklab.com/) lab about Synaptic currents and cocaine addiction.
 
 ---
 
-### 💉 Rotation 2 — [Department Name]
-**Location:** [Hospital or Clinic Name]  
-**Supervisor:** [Name, Title]  
-**Dates:** [Start – End]  
+## Rotations
 
-**Overview:**  
-Describe what this rotation covered and what you did day-to-day.  
-
-**Key Skills Learned:**  
-- Skill 1  
-- Skill 2  
-- Skill 3  
-
-**Reflection:**  
-Discuss how this experience contributed to your development as a clinician.
+### Rotation 1: [Schmidt MRI Lab](https://www.weizmann.ac.il/brain-sciences/labs/schmidt/)
+Focusing on ultra-high field MRI to better understand the human brain function. I will be focusing spesifically on fMRI.
 
 ---
 
-### 🧬 Rotation 3 — [Department Name]
-**Location:** [Hospital or Clinic Name]  
-**Supervisor:** [Name, Title]  
-**Dates:** [Start – End]  
-
-**Overview:**  
-Explain the department focus and your role during this rotation.  
-
-**Key Skills Learned:**  
-- Skill 1  
-- Skill 2  
-- Skill 3  
-
-**Reflection:**  
-Summarize the lessons learned and how this rotation influenced your career interests.
+### Rotation 2: [Tali Kimchi's Lab](https://www.weizmann.ac.il/brain-sciences/labs/kimchi/)
+Focusing on social behaviors, spesifically sexually dimorphic behavior in blind mole rats.
 
 ---
 
-## 📬 Contact
-
-You can reach me here:  
-📧 **Email:** [your.email@example.com]  
-💼 **LinkedIn:** [https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/yourprofile)  
-🌐 **GitHub:** [https://github.com/yourusername](https://github.com/yourusername)
+### Rotation 3: TBD
+I haven't found a lab for my third rotation yet. I'm looking for a neuroscience lab with a focus on a link between brain function and behavior.
 
 ---
 
-_This website was created using [GitHub Pages](https://pages.github.com) and Markdown._
+## Contact
+
+You can find me via email at lior.batat@weizmann.ac.il  
+
+
