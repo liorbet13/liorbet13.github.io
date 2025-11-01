@@ -1,8 +1,5 @@
 [About](#about) | [Rotations](#rotations) | [Contact](#contact)
 
-Welcome to my personal site!  
-Here you’ll find information about me and my research journey as an MSc student at WSOS.
-
 ---
 
 ## About
