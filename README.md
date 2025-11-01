@@ -1,4 +1,3 @@
-#  Lior Batat
 [About](#about) | [Rotations](#rotations) | [Contact](#contact)
 
 Welcome to my personal site!  
