@@ -3,9 +3,3 @@ description: "Welcome to my personal site!
 Here you’ll find information about me and my research journey as an MSc student at WSOS.
 "
 theme: jekyll-theme-cayman
-# add custume CSS
-defaults:
-  - scope:
-      path: "" # all files
-    values:
-      head_custom: "<link rel='stylesheet' href='/custom.css'>"
